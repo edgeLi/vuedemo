@@ -1,0 +1,20 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.1",
+  "description": "first npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "keywords": []
+}
